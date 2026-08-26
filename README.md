@@ -13,10 +13,10 @@ Before jumping into roles, align on how your team will operate:
 # 2. Roles & Contribution Profiles
 
 Assign one primary role per member:
-* **Project Manager:** Organizes tasks, deadlines, and team communication
-* **Technical Lead:** Guides architecture, tech stack, and technical risk assessment
-* **Developer:** Focuses on implementation strategy and prototyping feasibility
-* **Documentation Lead:** Manages repository structure, reports, and presentation design
+* **Project Manager:** Hamza Hassan
+* **Technical Lead:** Steve Tinoco
+* **Developer:** Joachin Keptot
+* **Documentation Lead:** Jose Lopez
 
 ### Member Profiles
 
