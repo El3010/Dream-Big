@@ -22,13 +22,13 @@ Assign one primary role per member:
 
 *(Complete one block per team member)*
 
-* **Name:**
-* **Assigned Role:**
+* **Name:** Jose Lopez
+* **Assigned Role:** Documentation Lead
 * **Technical/Professional Strengths:**
-  1. 
-  2. 
-* **Skill to Improve This Semester:**
-* **Preferred Working Style:** (e.g., async vs. live coding, morning vs. evening)
+  1. Good with time management
+  2. Comfortable with working with python
+* **Skill to Improve This Semester:** Work on my communication skills
+* **Preferred Working Style:** I prefer to work asynchronously and in the evening or day.
 
 # 3. "Dream Big" Project Concept
 
